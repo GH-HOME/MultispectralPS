@@ -11,3 +11,5 @@ Implementation for "Multispectral Photometric Stereo for Spatially-Varying Spect
 python test.py
 ```
 
+## Todo
+- [ ] Real captured data realease.
